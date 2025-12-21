@@ -1,5 +1,5 @@
 /*
-  Project: Smart Laundry System (.EXE TEAM)
+  Project: Smart weather System (.EXE TEAM)
   Board: Receiver + Web Server
 */
 
