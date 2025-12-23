@@ -5,7 +5,7 @@ A 2nd-year IoT course project demonstrating a wireless control system using two 
 ## 📋 Project Overview
 This system establishes a communication link between a sender unit and a receiver unit to perform remote hardware control tasks.
 
-* **Sender Unit:** Reads user inputs and transmits data wirelessly.
+* **Sender Unit:** Reads environmental data (Temperature, Humidity, Rain) via sensors and transmits it wirelessly.
 * **Receiver Unit:** Receives data to control Servo motor angles and RGB LED colors.
 
 ## 🛠️ Hardware Stack
